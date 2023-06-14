@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sliskiplumek&label=Profile%20views&color=0e75b6&style=flat" alt="sliskiplumek" /> </p>
 
-- 🌱 I’m currently learning **GrahpQL, Express**
+- 🌱 I’m currently learning **GrahpQL, Vue**
 
 - 💬 Ask me about **JS, Nodejs**
 
