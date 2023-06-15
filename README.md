@@ -18,7 +18,7 @@
 <a href="https://fb.com/hubert śliwiński" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hubert śliwiński" height="30" width="40" /></a>
 <a href="https://instagram.com/sliski_plumek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sliski_plumek" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/plumek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="plumek" height="30" width="40" /></a>
-<a href="https://discord.gg/Śliwka#8024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Śliwka#8024" height="30" width="40" /></a>
+<a href="https://discord.gg/rachuciachu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Śliwka#8024" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
