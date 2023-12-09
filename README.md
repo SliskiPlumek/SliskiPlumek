@@ -9,8 +9,6 @@
 - 📫 How to reach me **hsliwinski49@gmail.com**
 
 - ⚡ Fun fact **I`m a Star Wars fan**
- 
-- ⌨️ Having some business? Reach out to me! : <a href="https://www.fiverr.com/hubert_sliwa" target="blank"> My fiverr profile </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
