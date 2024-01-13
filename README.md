@@ -3,7 +3,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sliskiplumek" alt="sliskiplumek" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
-- 🌱 I’m currently learning **TypeScript, Advance backend designing**
+- 🌱 I’m currently learning **TypeScript, Advanced backend designing**
 
 - 💬 Ask me about **Nodejs & Expressjs**
 
